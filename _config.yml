@@ -1,16 +1,28 @@
-typography_spectrum: 0.16790499654598534
+title: handyman
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.22237610979937017
-  lightness: 0.31118283001706004
-  saturation: 0.5010897975880653
-  rhythmicContrast: 0.6188415111973882
+  saturation: 0.7085106
+  brandStrength: 0.2223761097993702
+  lightness: 0.4723404
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.44122231961227953
-name: malcolmvincent
-title: handyman
+  rhythmicContrast: 0.6021277
+typography_spectrum: 0.3276596
 description: services
+layout_spectrum: 0.3
+name: malcolmvincent
